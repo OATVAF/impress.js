@@ -83,7 +83,7 @@ table {
 */
 body {
     font-family: 'Lato', sans-serif;
-    min-height: 740px;
+    min-height: 640px;
     
     background: #2b868c;
 	background: -webkit-linear-gradient(120deg, #F0F0F0 0%, #2b868c 100%);
